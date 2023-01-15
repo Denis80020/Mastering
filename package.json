@@ -1,0 +1,27 @@
+{
+  "name": "mastering",
+  "version": "0.0.1-pre-alpha",
+  "description": "",
+  "main": "src/index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Denis80020/Mastering.git"
+  },
+  "author": "Jhosdani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Denis80020/Mastering/issues"
+  },
+  "homepage": "https://github.com/Denis80020/Mastering#readme",
+  "dependencies": {
+    "@types/node": "^18.11.18",
+    "colors": "^1.4.0",
+    "gh-pages": "^4.0.0"
+  }
+}
